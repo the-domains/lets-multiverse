@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1218638
+  lightness: 0.06079373
+  brandStrength: 1
+  brandColors:
+    - '#040403'
+    - '#FDFDFC'
+    - '#B4FFBD'
+    - '#FFE091'
+    - '#B49A6D'
+  rhythmicContrast: 0.562724
+typography_spectrum: 0.05376344
+name: Lets Multiverse
