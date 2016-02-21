@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.1218638
-  lightness: 0.06079373
   brandStrength: 1
+  rhythmicContrast: 0.562724
   brandColors:
     - '#040403'
     - '#FDFDFC'
     - '#B4FFBD'
     - '#FFE091'
     - '#B49A6D'
-  rhythmicContrast: 0.562724
+  lightness: 0.06079373
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.05376344
 name: Lets Multiverse
