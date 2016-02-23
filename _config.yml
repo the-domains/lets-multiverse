@@ -1,3 +1,7 @@
+name: Lets Multiverse
+favicon: null
+layout_spectrum: 0.43113
+typography_spectrum: 0.5752688
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5752688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#88B4BD'
     - '#F4C577'
     - '#BDBDA3'
     - '#5C995D'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.875
   rhythmicContrast: 1
-layout_spectrum: 1
-name: Lets Multiverse
+purpose: []
